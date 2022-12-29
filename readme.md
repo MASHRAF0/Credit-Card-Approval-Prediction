@@ -14,17 +14,8 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 
 ## Dataset
 
-We'll use the [Credit Card Approval dataset](http://archive.ics.uci.edu/ml/datasets/credit+approval)  from the UCI Machine Learning Repository. The structure of this notebook is as follows
+🏆 We'll use the [Credit Card Approval dataset](http://archive.ics.uci.edu/ml/datasets/credit+approval)  from the UCI Machine Learning Repository. The structure of this notebook is as follows
 
-
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Libraries & Packages
-
-![numpy](https://img.shields.io/badge/Numpy-%25100-blue)
-![pandas](https://img.shields.io/badge/Pandas-%25100-brightgreen)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-%25100-red)
 
 ## Project Steps 
 
